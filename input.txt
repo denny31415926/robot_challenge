@@ -1,0 +1,14 @@
+PLACE 0,0,NORTH
+PLACE 1,1,EAST
+#test 360 rotation
+LEFT
+LEFT
+LEFT
+LEFT
+REPORT
+#general movement test
+ROBOT 2
+MOVE
+MOVE
+RIGHT
+REPORT

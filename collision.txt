@@ -1,0 +1,28 @@
+PLACE 0,0,EAST
+PLACE 1,0,EAST
+#robot blocked by another robot
+MOVE
+REPORT
+#robot blocked by southern border
+RIGHT
+MOVE
+REPORT
+#robot blocked by western border
+RIGHT
+MOVE
+REPORT
+#robot blocked by northern border
+RIGHT
+MOVE
+MOVE
+MOVE
+MOVE
+MOVE
+REPORT
+RIGHT
+MOVE
+MOVE
+MOVE
+MOVE
+MOVE
+REPORT

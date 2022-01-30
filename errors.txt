@@ -1,0 +1,17 @@
+#place errors
+PLACE 1,1,1,1,1
+PLACE a,1,EAST
+PLACE 1,b,EAST
+PLACE -1,1,EAST
+PLACE 1,-1,EAST
+PLACE 1,1,UP
+#no robot errors
+LEFT
+RIGHT
+MOVE
+REPORT
+#invalid input error
+invalid
+#existing robot error
+PLACE 1,1,EAST
+PLACE 1,1,NORTH
