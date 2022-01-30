@@ -8,3 +8,5 @@ py robot.py <input file name>
 For example:
 
 py robot.py input.txt
+
+The input files should be in the same directory as the code.
